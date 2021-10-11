@@ -5,6 +5,7 @@
  *main 
  *
  *
+ * return 1 
  **/
 int main(void)
 {
