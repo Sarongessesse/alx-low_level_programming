@@ -2,10 +2,10 @@
 #include <unistd.h>
 
 /**
- *main 
+ *main - prints  a string  
  *
  *
- *Return 1 
+ *Return: 1 
  **/
 int main(void)
 {
