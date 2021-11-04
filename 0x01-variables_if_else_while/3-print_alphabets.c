@@ -2,15 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-*main: lowercase
+*main- lowercase
 *
 *
-*Return - 0
+*Return: 0
 */
 int main(void)
 {
 char i;
-for (i='a'; i <= 'z'; i++)
+for (i ='a'; i <= 'z'; i++)
 putchar (i);
 for (i = 'A'; i <= 'z'; i++)
 putchar (i);
