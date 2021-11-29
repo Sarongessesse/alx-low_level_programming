@@ -1,11 +1,8 @@
 #include "main.h"
 /**
-*main- cehck code
+*print_alphabet - cehck code
 *
 *Return: 0
-*
-*
-*print_alphabet - prints alphabet
 */
 void print_alphabet(void)
 {
