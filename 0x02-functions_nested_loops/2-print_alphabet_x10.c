@@ -10,9 +10,9 @@ int x;
 for (x = 1; x <= 10; x++)
 {
 char y;
-for (y = 'a'; y <= 'z'; y++ )
+for (y = 'a'; y <= 'z'; y++)
 {
-putchar (x);
+putchar (y);
 }
 putchar ('\n');
 return;
