@@ -4,7 +4,7 @@
 *
 *Return:
 */
-int _islower(int c)
+int _islower( )
 {
   char x;
  

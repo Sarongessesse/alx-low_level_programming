@@ -10,10 +10,12 @@ int _islower( )
  
   for (x = 'a'; x <= 'z'; x++)
     {
-      return (1);
+      printf("1";
     }
   for (x = 'A'; x <= 'Z'; x++)
-    {return (0);}
+    {
+      printf("0"
+	     }
 
 
 
