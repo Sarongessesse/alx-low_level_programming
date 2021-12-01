@@ -6,8 +6,8 @@
 */
 void print_alphabet_x10(void)
 {
-int x;
-for (x = 1; x <= 10; x++)
+int x=0;
+while (x < 10)
 {
 char y;
 for (y = 'a'; y <= 'z'; y++)
@@ -15,6 +15,6 @@ for (y = 'a'; y <= 'z'; y++)
 putchar (y);
 }
 putchar ('\n');
-return;
+x++;
 }
 }
