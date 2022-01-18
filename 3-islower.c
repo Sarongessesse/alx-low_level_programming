@@ -14,5 +14,5 @@ printf("1");
 for (x = 'A'; x <= 'Z'; x++)
 {
 printf("0");	     }
- return 0;
+return 0;
 }
