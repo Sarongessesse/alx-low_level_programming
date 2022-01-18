@@ -1,26 +1,15 @@
 #include "main.h"
 /**
-*_islower - checks
-*
-*Return:
-*/
-int _islower( )
-{
-  char x;
- 
-  for (x = 'a'; x <= 'z'; x++)
-    {
-      printf("1";
+ *int _islower(int c)-
+ *
+ *Return: 
+ */
+int _islower(int c)
+{int x;
+  for (x='a'; x <= 'z'; x++)
+    {return (1);
     }
-  for (x = 'A'; x <= 'Z'; x++)
-    {
-      printf("0"
-	     }
-
-
-
-
-
-
+  for (x = 'A'; x = 'Z'; x++)
+    { return (0);
 
 }
